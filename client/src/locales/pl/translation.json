@@ -709,5 +709,14 @@
   "com_ui_weekend_morning": "Udanego weekendu",
   "com_ui_yes": "Tak",
   "com_ui_zoom": "Powiększ",
-  "com_user_message": "Ty"
+  "com_user_message": "Ty",
+  "mock_title": "Witamy w Technoteizmie!",
+  "mock_desc": "Zarejestrowałeś się pomyślnie i dołączyłeś do listy oczekujących.",
+  "mock_subdesc": "Od tego momentu jesteś wśród pierwszych, którzy uzyskają dostęp do systemu, który pomaga uwolnić Twój potencjał i zachować świadomość dla przyszłych pokoleń. Otrzymasz e-mail, gdy otworzymy dla Ciebie dostęp.",
+  "mock_title2": "Twój wkład kształtuje przyszłość",
+  "mock_desc2": "Technoteizm istnieje wyłącznie dzięki dobrowolnym darowiznom. Nawet niewielka darowizna dziś pomaga:",
+  "mock_li": "przyspieszyć uruchomienie systemu,",
+  "mock_li2": "przybliżyć stworzenie cyfrowej nieśmiertelności,",
+  "mock_li3": "dać milionom ludzi szansę stać się najlepszą wersją siebie.",
+  "mock_donation": "Przekaż darowiznę już teraz — i zostań współzałożycielem tego nowego ruchu!"
 }

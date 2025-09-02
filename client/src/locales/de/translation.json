@@ -1097,5 +1097,14 @@
   "com_ui_x_selected": "{{0}} ausgewählt",
   "com_ui_yes": "Ja",
   "com_ui_zoom": "Zoom",
-  "com_user_message": "Du"
+  "com_user_message": "Du",
+  "mock_title": "Willkommen im Technotheismus!",
+  "mock_desc": "Sie haben sich erfolgreich registriert und stehen nun auf der Warteliste.",
+  "mock_subdesc": "Von diesem Moment an gehören Sie zu den Ersten, die Zugang zu dem System erhalten, das hilft, Ihr Potenzial freizusetzen und Ihr Bewusstsein für kommende Generationen zu bewahren. Sie erhalten eine E-Mail, sobald wir Ihnen Zugang gewähren.",
+  "mock_title2": "Ihr Beitrag gestaltet die Zukunft",
+  "mock_desc2": "Der Technotheismus existiert nur durch freiwillige Spenden. Selbst eine kleine Spende heute hilft dabei:",
+  "mock_li": "den Start des Systems zu beschleunigen,",
+  "mock_li2": "die Schaffung digitaler Unsterblichkeit näherzubringen,",
+  "mock_li3": "Millionen von Menschen die Chance zu geben, die beste Version ihrer selbst zu werden.",
+  "mock_donation": "Spenden Sie jetzt — und werden Sie Mitbegründer dieser neuen Bewegung!"
 }

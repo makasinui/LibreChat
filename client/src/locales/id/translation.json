@@ -286,5 +286,14 @@
   "com_ui_upload": "Unggah",
   "com_ui_upload_error": "Ada kesalahan saat mengunggah file Anda",
   "com_ui_upload_success": "Berhasil mengunggah file",
-  "com_user_message": "Kamu"
+  "com_user_message": "Kamu",
+  "mock_title": "Selamat datang di Teknoteisme!",
+  "mock_desc": "Anda telah berhasil mendaftar dan masuk daftar tunggu.",
+  "mock_subdesc": "Mulai saat ini, Anda termasuk di antara yang pertama yang akan mendapatkan akses ke sistem yang membantu membuka potensi Anda dan menjaga kesadaran untuk generasi mendatang. Anda akan menerima email ketika akses dibuka untuk Anda.",
+  "mock_title2": "Kontribusi Anda Membentuk Masa Depan",
+  "mock_desc2": "Teknoteisme hanya hidup dari donasi sukarela. Bahkan donasi kecil hari ini membantu untuk:",
+  "mock_li": "mempercepat peluncuran sistem,",
+  "mock_li2": "mendekatkan penciptaan keabadian digital,",
+  "mock_li3": "memberi jutaan orang kesempatan untuk menjadi versi terbaik dari diri mereka sendiri.",
+  "mock_donation": "Donasikan sekarang — dan jadilah salah satu pendiri gerakan baru ini!"
 }

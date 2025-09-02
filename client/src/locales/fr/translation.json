@@ -1063,5 +1063,14 @@
   "com_ui_x_selected": "{{0}} sélectionné",
   "com_ui_yes": "Oui",
   "com_ui_zoom": "Zoom",
-  "com_user_message": "Vous"
+  "com_user_message": "Vous",
+  "mock_title": "Bienvenue dans le Technothéisme !",
+  "mock_desc": "Vous vous êtes inscrit avec succès et avez rejoint la liste d’attente.",
+  "mock_subdesc": "Dès maintenant, vous faites partie des premiers qui auront accès au système qui aide à libérer votre potentiel et à préserver la conscience pour les générations futures. Vous recevrez un e-mail lorsque nous ouvrirons l’accès.",
+  "mock_title2": "Votre contribution façonne l’avenir",
+  "mock_desc2": "Le Technothéisme vit uniquement grâce aux dons volontaires. Même un petit don aujourd’hui aide à :",
+  "mock_li": "accélérer le lancement du système,",
+  "mock_li2": "rapprocher la création de l’immortalité numérique,",
+  "mock_li3": "donner à des millions de personnes la chance de devenir la meilleure version d’elles-mêmes.",
+  "mock_donation": "Faites un don dès maintenant — et devenez co-fondateur de ce nouveau mouvement !"
 }

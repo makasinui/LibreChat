@@ -6,7 +6,7 @@ import AuthLayout from '~/components/Auth/AuthLayout';
 import { TranslationKeys, useLocalize } from '~/hooks';
 
 const headerMap: Record<string, TranslationKeys> = {
-  '/login': 'com_auth_welcome_back',
+  /* '/login': 'com_auth_welcome_back', */
   '/register': 'com_auth_create_account',
   '/forgot-password': 'com_auth_reset_password',
   '/reset-password': 'com_auth_reset_password',
@@ -29,9 +29,9 @@ export default function StartupLayout({ isAuthenticated }: { isAuthenticated?: b
   const location = useLocation();
 
   useEffect(() => {
-    if (isAuthenticated) {
+    /* if (isAuthenticated) {
       navigate('/c/new', { replace: true });
-    }
+    } */
     if (data) {
       setStartupConfig(data);
     }

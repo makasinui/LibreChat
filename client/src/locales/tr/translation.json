@@ -714,5 +714,14 @@
   "com_ui_view_source": "Kaynak sohbeti görüntüle",
   "com_ui_yes": "Evet",
   "com_ui_zoom": "Yakınlaştır",
-  "com_user_message": "Sen"
+  "com_user_message": "Sen",
+  "mock_title": "Teknoteizm’e Hoş Geldiniz!",
+  "mock_desc": "Başarıyla kaydoldunuz ve bekleme listesine eklendiniz.",
+  "mock_subdesc": "Bundan itibaren, potansiyelinizi ortaya çıkarmanıza ve bilincinizi gelecek nesiller için korumanıza yardımcı olan sisteme erişecek ilk kişiler arasında olacaksınız. Erişim açıldığında bir e-posta alacaksınız.",
+  "mock_title2": "Katkınız Geleceği Şekillendiriyor",
+  "mock_desc2": "Teknoteizm yalnızca gönüllü bağışlarla var olur. Bugün yapılan küçük bir bağış bile şunlara yardımcı olur:",
+  "mock_li": "sistemin başlatılmasını hızlandırmak,",
+  "mock_li2": "dijital ölümsüzlüğün oluşturulmasını yakınlaştırmak,",
+  "mock_li3": "milyonlarca insana en iyi versiyonları olma şansı vermek.",
+  "mock_donation": "Hemen bağış yapın — ve bu yeni hareketin kurucu ortağı olun!"
 }

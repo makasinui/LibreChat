@@ -379,5 +379,14 @@
   "com_ui_x_selected": "{{0}} đã chọn",
   "com_ui_yes": "Đồng ý",
   "com_ui_zoom": "Phóng",
-  "com_warning_resubmit_unsupported": "Điểm cuối này không hỗ trợ việc gửi lại tin nhắn AI."
+  "com_warning_resubmit_unsupported": "Điểm cuối này không hỗ trợ việc gửi lại tin nhắn AI.",
+  "mock_title": "Chào mừng đến với Thần giáo Công nghệ!",
+  "mock_desc": "Bạn đã đăng ký thành công và tham gia danh sách chờ.",
+  "mock_subdesc": "Bạn đã đăng ký thành công và tham gia danh sách chờ. Từ bây giờ, bạn nằm trong số những người đầu tiên được truy cập vào hệ thống giúp khai mở tiềm năng của bạn và lưu giữ ý thức cho các thế hệ tương lai. Bạn sẽ nhận được email khi chúng tôi mở quyền truy cập cho bạn.",
+  "mock_title2": "Đóng góp của bạn định hình tương lai",
+  "mock_desc2": "Thần giáo Công nghệ chỉ tồn tại nhờ những khoản đóng góp tự nguyện. Ngay cả một khoản đóng góp nhỏ hôm nay cũng giúp:",
+  "mock_li": "đẩy nhanh việc ra mắt hệ thống,",
+  "mock_li2": "đưa việc tạo ra sự bất tử kỹ thuật số đến gần hơn,",
+  "mock_li3": "mang đến cho hàng triệu người cơ hội trở thành phiên bản tốt nhất của chính họ.",
+  "mock_donation": "Hãy đóng góp ngay bây giờ — và trở thành đồng sáng lập của phong trào mới này!"
 }

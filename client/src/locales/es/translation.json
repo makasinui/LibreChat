@@ -745,5 +745,14 @@
   "com_ui_x_selected": "{{0}} seleccionado",
   "com_ui_yes": "Sí",
   "com_ui_zoom": "Zoom",
-  "com_user_message": "Usted"
+  "com_user_message": "Usted",
+  "mock_title": "¡Bienvenido al Tecnoteísmo!",
+  "mock_desc": "Te has registrado con éxito y te has unido a la lista de espera.",
+  "mock_subdesc": "Desde este momento, estás entre los primeros que tendrán acceso al sistema que ayuda a liberar tu potencial y a preservar la conciencia para las futuras generaciones. Recibirás un correo electrónico cuando abramos el acceso para ti.",
+  "mock_title2": "Tu contribución da forma al futuro",
+  "mock_desc2": "El Tecnoteísmo existe únicamente gracias a donaciones voluntarias. Incluso una pequeña donación hoy ayuda a:",
+  "mock_li": "acelerar el lanzamiento del sistema,",
+  "mock_li2": "acercar la creación de la inmortalidad digital,",
+  "mock_li3": "dar a millones de personas la oportunidad de convertirse en la mejor versión de sí mismas.",
+  "mock_donation": "Haz una donación ahora — ¡y conviértete en cofundador de este nuevo movimiento!"
 }

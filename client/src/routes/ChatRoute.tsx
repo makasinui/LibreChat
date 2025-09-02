@@ -13,6 +13,7 @@ import useAuthRedirect from './useAuthRedirect';
 import temporaryStore from '~/store/temporary';
 import { useRecoilCallback } from 'recoil';
 import store from '~/store';
+import Empty from './Empty';
 
 export default function ChatRoute() {
   const { data: startupConfig } = useGetStartupConfig();
@@ -148,7 +149,9 @@ export default function ChatRoute() {
 
   return (
     <ToolCallsMapProvider conversationId={conversation.conversationId ?? ''}>
-      <ChatView index={index} />
+      {/* //<ChatView index={index} /> */}
+      <Empty />
     </ToolCallsMapProvider>
+    
   );
 }

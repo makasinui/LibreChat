@@ -20,6 +20,7 @@ import { TermsAndConditionsModal } from '~/components/ui';
 import { Nav, MobileNav } from '~/components/Nav';
 import { useHealthCheck } from '~/data-provider';
 import { Banner } from '~/components/Banners';
+import Empty from './Empty';
 
 export default function Root() {
   const [showTerms, setShowTerms] = useState(false);
@@ -66,7 +67,8 @@ export default function Root() {
 
   return (
     <SetConvoProvider>
-      <FileMapContext.Provider value={fileMap}>
+      <Empty />
+      {/* <FileMapContext.Provider value={fileMap}>
         <AssistantsMapContext.Provider value={assistantsMap}>
           <AgentsMapContext.Provider value={agentsMap}>
             <PromptGroupsProvider>
@@ -93,7 +95,7 @@ export default function Root() {
             />
           )}
         </AssistantsMapContext.Provider>
-      </FileMapContext.Provider>
+      </FileMapContext.Provider> */}
     </SetConvoProvider>
   );
 }

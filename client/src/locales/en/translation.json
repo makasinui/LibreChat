@@ -1274,5 +1274,14 @@
   "com_ui_zoom": "Zoom",
   "com_ui_mcp_configure_server": "Configure {{0}}",
   "com_ui_mcp_configure_server_description": "Configure custom variables for {{0}}",
-  "com_user_message": "You"
+  "com_user_message": "You",
+  "mock_title": "Welcome to Technotheism!",
+  "mock_desc": "You have successfully registered and joined the waitlist.",
+  "mock_subdesc": "From this moment, you are among the first who will gain access to the system that helps unlock your potential and preserve consciousness for future generations. You will receive an email once we open access for you.",
+  "mock_title2": "Your Contribution Shapes the Future",
+  "mock_desc2": "Technotheism exists solely through voluntary donations. Even a small donation today helps to:",
+  "mock_li": "accelerate the system’s launch,",
+  "mock_li2": "bring the creation of digital immortality closer,",
+  "mock_li3": "give millions of people the chance to become the best version of themselves.",
+  "mock_donation": "Make a donation right now — and become a co-founder of this new movement!"
 }
